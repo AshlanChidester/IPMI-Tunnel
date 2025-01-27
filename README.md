@@ -12,8 +12,4 @@ This allows you to manage IPMI-enabled servers remotely even if they are behind 
 * **Bastion Host Support:** Enables secure access to the IPMI host through a secure jump server.
 * **Loopback Interface:** Utilizes a loopback interface alias for local port binding.
 
-**Usage:**
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository_url>
+Support by visiting www.AshlanChidester.com and consider buying one of many great technical manuals.
